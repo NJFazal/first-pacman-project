@@ -8,4 +8,5 @@ This project showcases my working progress in building coding skills.
   <li> A loop to create animation back and forth across the screen </li>
   <li> Set multiple functions within a script to tie the animation together </li>
   </ul>
+  <em><strong>License:</strong></em> MIT
 <em><strong>Roadmap:</strong></em> Improvements to be made will include animation up and down and an animation for pacman to chase.

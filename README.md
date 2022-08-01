@@ -2,7 +2,7 @@
 <h2> Description </h2>
 This is a pacman project for my coding course at MIT ExPro. Kit contains images for pacman with mouth open and closed and facing both left and right as well as code to create animation as well as the license.
 <h2> Skills </h2>
-This project showcases my working progress in building coding skills. 
+This project showcases my progress in building coding skills. 
 <ul>
   <li> I used multiple arrays </li>
   <li> A loop to create animation back and forth across the screen </li>

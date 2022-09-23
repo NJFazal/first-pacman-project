@@ -4,7 +4,7 @@
     <body>
         <h1>Pacman Project</h1>
         <h2><span style='font-size:50px;'>&#10024;</span>Description:</h2>
-      <p>This is a pacman project for my coding course at MIT ExPro. Kit contains images for pacman with mouth open and closed and facing both left and right as well as code to create animation as well as the license.<br /></p>
+      <p>This is a pacman project for my coding course at MIT xPRO. Kit contains images for pacman with mouth open and closed and facing both left and right as well as code to create animation as well as the license.<br /></p>
         <p>This project showcases my progress in building coding skills. 
 <ul>
   <li> I used multiple arrays </li>
